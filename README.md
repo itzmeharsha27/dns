@@ -43,3 +43,9 @@ to isolate private services from the public internet.
 
 ## Conclusion
 The project successfully demonstrates private DNS ownership and isolation.
+
+
+
+## Future Enhancements
+- Add DNSSEC
+- Integrate internal web services
