@@ -34,3 +34,8 @@ Only the configured domain is resolved, while public internet domains are blocke
 ![DNS Resolution](screenshots/image-1.jpeg)
 ![Windows DNS Config](screenshots/windows-dns.png)
 ![Public DNS Blocked](screenshots/google-not-resolving.png)
+
+
+## Security Relevance
+This setup is similar to internal DNS used in enterprises
+to isolate private services from the public internet.
