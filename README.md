@@ -26,3 +26,11 @@ public internet DNS services.
 The Windows client is manually configured to use the Ubuntu VM as its DNS server.
 All DNS queries are sent directly to the private BIND9 server.
 Only the configured domain is resolved, while public internet domains are blocked.
+
+
+## Screenshots
+
+![BIND Running](screenshots/bind-running.png)
+![DNS Resolution](screenshots/image-1.jpeg)
+![Windows DNS Config](screenshots/windows-dns.png)
+![Public DNS Blocked](screenshots/google-not-resolving.png)
