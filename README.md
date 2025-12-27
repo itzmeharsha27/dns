@@ -39,3 +39,7 @@ Only the configured domain is resolved, while public internet domains are blocke
 ## Security Relevance
 This setup is similar to internal DNS used in enterprises
 to isolate private services from the public internet.
+
+
+## Conclusion
+The project successfully demonstrates private DNS ownership and isolation.
