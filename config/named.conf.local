@@ -1,0 +1,4 @@
+zone "mywebapp.com" {
+    type master;
+    file "/etc/bind/db.mywebapp.com";
+};
